@@ -1,2 +1,5 @@
 # Diet_management_system
-Manage your diet through this code using simple python codes
+Manage your diet through this code using simple python code
+IDE used - VS code
+Python-version - python 3.11
+Modules - datetime
