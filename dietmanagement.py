@@ -4,7 +4,7 @@ def getTime():
 
 
 def log():
-    print("What do you want to lock\npress\n1)diet\n2)exercise")
+    print("What do you want to log\npress\n1)diet\n2)exercise")
     j = int(input())
     if (j == 1):
         print("Give your file a name")
